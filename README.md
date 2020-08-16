@@ -10,6 +10,8 @@
 - Google Geolocation API: https://developers.google.com/maps/documentation/geolocation/overview  
     こいつの Introduction の中に、 "Communication is done over HTTPS using POST. Both request and response are formatted as JSON, and the content type of both is application/json." と書いてあるので、HTTPリクエストのPOSTメソッドでJSONのリクエストを投げればいいとわかる
 
+- Google APIキーの取得: https://nendeb.com/276
+
 - HTTPリクエストのPOSTメソッドを投げる: https://qiita.com/takano-h/items/dd10818eb7e09161bc29
 
 - JSON: https://www.sejuku.net/blog/16196
