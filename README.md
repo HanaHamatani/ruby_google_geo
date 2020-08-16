@@ -12,6 +12,7 @@
 
 - Google APIキーの取得: https://nendeb.com/276
 
-- HTTPリクエストのPOSTメソッドを投げる: https://qiita.com/takano-h/items/dd10818eb7e09161bc29
+- HTTPリクエストのPOSTメソッドを投げる: https://qiita.com/takano-h/items/dd10818eb7e09161bc29  
+    リクエストヘッダをJSONにしてPOSTすれば良い、ただし、`uri.path` は `uri.request_uri` にする必要があるので注意。
 
 - JSON: https://www.sejuku.net/blog/16196
