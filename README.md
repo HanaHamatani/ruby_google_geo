@@ -1,6 +1,6 @@
 # Google Geolocation
 
-とりあえずPC `get_current_position.rb` をみてください。  
+とりあえず `get_current_position.rb` をみてください。  
 4行目の `YOUR_API_CODE` の部分は、自分のAPIコードに変えてください。  
 11行目の `YOUR_MAC_ADDRESS` の部分は、自分のWi-FiのMACアドレスに変えてください。  
 自分のWi-FiのMACアドレスの調べかたは [Windows](https://cs.zaq.ne.jp/JSS_KnowledgeDetail?an=000002673) [Mac](https://moshbox.jp/?p=25912)  
